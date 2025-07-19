@@ -1,7 +1,7 @@
-package foo.myask.field_tooling.items;
+package invalid.myask.field_tooling.items;
 
-import foo.myask.field_tooling.FieldTooling;
-import foo.myask.field_tooling.tags.ModTags;
+import invalid.myask.field_tooling.FieldTooling;
+import invalid.myask.field_tooling.tags.ModTags;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.recipes.FinishedRecipe;
 import net.minecraft.data.recipes.RecipeProvider;
@@ -11,7 +11,6 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.tags.ItemTags;
 import net.minecraft.tags.TagKey;
 import net.minecraft.world.item.*;
-import net.minecraftforge.client.model.generators.ItemModelBuilder;
 import net.minecraftforge.common.Tags;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
