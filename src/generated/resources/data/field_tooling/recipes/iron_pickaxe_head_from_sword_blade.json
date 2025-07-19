@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H ",
+    " A"
+  ],
+  "key": {
+    "H": {
+      "item": "field_tooling:iron_sword_blade"
+    },
+    "A": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "field_tooling:iron_pickaxe_head"
+  }
+}

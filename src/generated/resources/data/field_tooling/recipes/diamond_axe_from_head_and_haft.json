@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H",
+    "R"
+  ],
+  "key": {
+    "H": {
+      "item": "field_tooling:diamond_axe_head"
+    },
+    "R": {
+      "tag": "field_tooling:hafts"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_axe"
+  }
+}

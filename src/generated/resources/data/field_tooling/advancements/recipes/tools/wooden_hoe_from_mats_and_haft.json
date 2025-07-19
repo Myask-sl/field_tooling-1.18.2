@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "field_tooling:wooden_hoe_from_mats_and_haft"
+    ]
+  },
+  "criteria": {
+    "has_wooden": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:planks"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "field_tooling:wooden_hoe_from_mats_and_haft"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wooden",
+      "has_the_recipe"
+    ]
+  ]
+}

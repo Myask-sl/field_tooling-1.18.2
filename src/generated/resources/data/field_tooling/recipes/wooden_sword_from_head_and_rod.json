@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H",
+    "R"
+  ],
+  "key": {
+    "H": {
+      "item": "field_tooling:wooden_sword_blade"
+    },
+    "R": {
+      "tag": "forge:rods"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_sword"
+  }
+}

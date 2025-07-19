@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    " R"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:stone_tool_materials"
+    },
+    "R": {
+      "tag": "field_tooling:hafts"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_hoe"
+  }
+}

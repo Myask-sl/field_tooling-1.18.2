@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H",
+    "R"
+  ],
+  "key": {
+    "H": {
+      "item": "field_tooling:wooden_hoe_blade"
+    },
+    "R": {
+      "tag": "field_tooling:hafts"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_hoe"
+  }
+}

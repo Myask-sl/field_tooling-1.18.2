@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "RA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/iron"
+    },
+    "R": {
+      "tag": "field_tooling:hafts"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_pickaxe"
+  }
+}

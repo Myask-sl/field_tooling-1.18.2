@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    " R"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/gold"
+    },
+    "R": {
+      "tag": "field_tooling:hafts"
+    }
+  },
+  "result": {
+    "item": "minecraft:golden_hoe"
+  }
+}

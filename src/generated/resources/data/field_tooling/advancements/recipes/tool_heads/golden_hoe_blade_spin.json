@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "field_tooling:golden_hoe_blade_spin"
+    ]
+  },
+  "criteria": {
+    "has_golden_sword_blade": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "field_tooling:golden_sword_blade"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "field_tooling:golden_hoe_blade_spin"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_golden_sword_blade",
+      "has_the_recipe"
+    ]
+  ]
+}

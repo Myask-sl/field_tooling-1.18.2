@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "field_tooling:golden_hoe_from_mats_and_haft"
+    ]
+  },
+  "criteria": {
+    "has_golden": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "forge:ingots/gold"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "field_tooling:golden_hoe_from_mats_and_haft"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_golden",
+      "has_the_recipe"
+    ]
+  ]
+}

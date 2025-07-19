@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "field_tooling:iron_axe_from_head_and_haft"
+    ]
+  },
+  "criteria": {
+    "has_iron_axe_head": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "field_tooling:iron_axe_head"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "field_tooling:iron_axe_from_head_and_haft"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_iron_axe_head",
+      "has_the_recipe"
+    ]
+  ]
+}

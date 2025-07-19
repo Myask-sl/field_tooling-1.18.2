@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "field_tooling:iron_pickaxe_head_from_sword_blade"
+    ]
+  },
+  "criteria": {
+    "has_iron_sword_blade": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "field_tooling:iron_sword_blade"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "field_tooling:iron_pickaxe_head_from_sword_blade"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_iron_sword_blade",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "itemGroup.field_tooling": "Field Tooling",
+
+  "item.field_tooling.wooden_rod": "Wooden Haft",
+  "item.field_tooling.stone_rod": "Stone Haft",
+  "item.field_tooling.iron_rod": "Iron Haft",
+  "item.field_tooling.golden_rod": "Golden Haft",
+
+  "item.field_tooling.wooden_sword_blade": "Wooden Sword-blade",
+  "item.field_tooling.wooden_pickaxe_head": "Wooden Pickaxe-head",
+  "item.field_tooling.wooden_axe_head": "Wooden Axe-head",
+  "item.field_tooling.wooden_hoe_blade": "Wooden Hoe Blade",
+
+  "item.field_tooling.stone_sword_blade": "Stone Sword-blade",
+  "item.field_tooling.stone_pickaxe_head": "Stone Pickaxe-head",
+  "item.field_tooling.stone_axe_head": "Stone Axe-head",
+  "item.field_tooling.stone_hoe_blade": "Stone Hoe Blade",
+
+  "item.field_tooling.iron_sword_blade": "Iron Sword-blade",
+  "item.field_tooling.iron_pickaxe_head": "Iron Pickaxe-head",
+  "item.field_tooling.iron_axe_head": "Iron Axe-head",
+  "item.field_tooling.iron_hoe_blade": "Iron Hoe Blade",
+
+  "item.field_tooling.diamond_sword_blade": "Diamond Sword-blade",
+  "item.field_tooling.diamond_pickaxe_head": "Diamond Pickaxe-head",
+  "item.field_tooling.diamond_axe_head": "Diamond Axe-head",
+  "item.field_tooling.diamond_hoe_blade": "Diamond Hoe Blade",
+
+  "item.field_tooling.golden_sword_blade": "Golden Sword-blade",
+  "item.field_tooling.golden_pickaxe_head": "Golden Pickaxe-head",
+  "item.field_tooling.golden_axe_head": "Golden Axe-head",
+  "item.field_tooling.golden_hoe_blade": "Golden Hoe Blade",
+
+  "item.field_tooling.deepslate_sword_blade": "Deepslate Sword-blade",
+  "item.field_tooling.deepslate_pickaxe_head": "Deepslate Pickaxe-head",
+  "item.field_tooling.deepslate_axe_head": "Deepslate Axe-head",
+  "item.field_tooling.deepslate_hoe_blade": "Deepslate Hoe Blade",
+
+  "item.field_tooling.silver_pickaxe_head": "Silver Pickaxe-head",
+  "item.field_tooling.silver_axe_head": "Silver Axe-head",
+  "item.field_tooling.silver_hoe_blade": "Silver Hoe Blade",
+  "item.field_tooling.silver_sword_blade": "Silver Gladius",
+
+  "item.field_tooling.brass_sword_blade": "There is no brazen sword.",
+  "item.field_tooling.brass_pickaxe_head": "Brazen Pickaxe-head",
+  "item.field_tooling.brass_axe_head": "Brazen Axe-head",
+  "item.field_tooling.brass_hoe_blade": "Brass Hoe Blade",
+
+  "item.field_tooling.bronze_pickaxe_head": "Bronze Pickaxe-head",
+  "item.field_tooling.bronze_axe_head": "Bronze Axe-head",
+  "item.field_tooling.bronze_hoe_blade": "Bronze Hoe Blade",
+  "item.field_tooling.bronze_sword_blade": "Bronze Gladius"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H ",
+    " A"
+  ],
+  "key": {
+    "H": {
+      "item": "field_tooling:wooden_sword_blade"
+    },
+    "A": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "field_tooling:wooden_pickaxe_head"
+  }
+}

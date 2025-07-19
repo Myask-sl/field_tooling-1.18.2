@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "field_tooling:diamond_sword_blade"
+    }
+  ],
+  "result": {
+    "item": "field_tooling:diamond_hoe_blade"
+  }
+}

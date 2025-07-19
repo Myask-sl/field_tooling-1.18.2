@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HA",
+    "R "
+  ],
+  "key": {
+    "H": {
+      "item": "field_tooling:golden_sword_blade"
+    },
+    "A": {
+      "tag": "forge:ingots/gold"
+    },
+    "R": {
+      "tag": "field_tooling:hafts"
+    }
+  },
+  "result": {
+    "item": "minecraft:golden_pickaxe"
+  }
+}

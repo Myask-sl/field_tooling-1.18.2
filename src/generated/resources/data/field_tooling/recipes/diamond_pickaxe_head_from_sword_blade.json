@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H ",
+    " A"
+  ],
+  "key": {
+    "H": {
+      "item": "field_tooling:diamond_sword_blade"
+    },
+    "A": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "result": {
+    "item": "field_tooling:diamond_pickaxe_head"
+  }
+}

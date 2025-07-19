@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "field_tooling:golden_axe_head_from_mats"
+    ]
+  },
+  "criteria": {
+    "has_golden": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "forge:ingots/gold"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "field_tooling:golden_axe_head_from_mats"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_golden",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "AR"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:planks"
+    },
+    "R": {
+      "tag": "field_tooling:hafts"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_axe"
+  }
+}
